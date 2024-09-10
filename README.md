@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **karan9970/karan9970** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
